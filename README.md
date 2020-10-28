@@ -2,7 +2,7 @@
 # Red Onion Foods
 A single page restaurant app where people are able to select food in their cart and checkout the cart with their information
 
-[Live Website](ot-onion-restorent.web.app/ 
+[Live Website](ot-onion-restorent.web.app/)
 
 ### Features
 * Order food from the menu
